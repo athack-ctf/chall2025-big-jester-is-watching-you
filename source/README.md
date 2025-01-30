@@ -1,11 +1,13 @@
 # Building Your Challenge
 
-The purpose of this directory is to provide a reproducible way of rebuilding your challenge.
+To be run on a machine with a webcam connected.
+Does NOT work on WSL, even with the webcam passed through usbpid.
 
-- If your challenge can be programmatically rebuilt, treat this directory as the root of the source code.
+Run the program on the machine:
+```
+python3 -m pip install -r requirements.txt
+python3 main.py
+```
 
-- If your process is mainly manual, then it should be documented, along with all necessary files.
+Program runs indefinitely. There is a cooldown between two link requests (5 sec, can adjust).
 
-- If you have used a special tool (e.g., a file encoding tool) to build the challenge, it should be documented as well.
-
-- For any clarifications, consult us (Anis and Hugo).

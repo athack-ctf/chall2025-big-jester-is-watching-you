@@ -1,6 +1,6 @@
-# Chall - Your Challenge Title
+# Chall - Jester is Watching
 
-> A brief description of the challenge
+> Environment challenge where participants must show a QR code to a webcam. The program running behind will send the flag to the URL provided on the QR code.
 
 ## Type
 
@@ -9,30 +9,18 @@
 
 ## Designer(s)
 
-- Ada Lovelace
-- Barbara Liskov
+- Hugo Kermabon-Bobinnec
 
 ## Description
 
-A high-level overview intended to clarify the concept and intuition behind the challenge, outlining its educational
-goals and the skills it aims to test in participants.
+Environment challenge where participants must show a QR code to a webcam. The program running behind will send the flag to the URL provided on the QR code.
 
-**IMPORTANT:** This description will **NOT** be shared with participants.
+NOTE: NO OFFLINE ARTIFACTS. SETUP A MACHINE WITH WIFI.
 
 ## Category(ies)
 
-- `pwn`
-- `re`
-- `web`
-- `stegano`
 - `env`
-- `crypto`
-- `osint`
-- `web3`
-- `ai`
-- `android`
-- `auto`
-- `misc`
+
 
 ---
 

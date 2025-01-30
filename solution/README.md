@@ -1,10 +1,5 @@
 # How to Solve the Challenge?
 
-Provide reproducible steps to solve the challenge. This can include:
+Present a QR code with a webhook link (for instance, `https://webhook.site/944254c3-2f18-4cfc-ab5d-2a0efe13941e`)
 
-- Runnable code (e.g., `PoC.py`)
-- A Bash script or a sequence of commented commands
-- Well-explained instructions
-- ...
-
-Ensure that all dependencies required to build or run the solution are provided (e.g., `requirements.txt`) or thoroughly documented.
+You'll get the flag in a HEADER, on the webhook.
