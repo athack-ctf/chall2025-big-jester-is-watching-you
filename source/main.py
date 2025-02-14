@@ -7,7 +7,7 @@ import requests
 def execute_function(url):
     print(f"QR Code detected! URL: {url}")
     # Add your custom logic here
-    r=requests.get(url, headers={"Content-Type":"ATHACKCTF{Hehehe}"})
+    r=requests.get(url, headers={"Content-Type":"ATHACKCTF{B1gJesterIsW4tch1ngY0u}"})
 
 
 index = 0
