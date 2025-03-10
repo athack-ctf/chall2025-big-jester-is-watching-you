@@ -1,8 +1,5 @@
-# Name should be "Challenge name" if only one flag, or
-# "Challenge name - 1", "Challenge name - 2", etc. if multiple ones.
-# Be careful of the spaces before and after the '-'
 name: "Big Jester is Watching You"
-author: ""
+author: "Hugo"
 category: <Hardware>
 description: |
     Somewhere near the admins, Jester is watching. Everyone. Everything.
@@ -12,26 +9,15 @@ description: |
     
 value: 50
 
-# Let's put the challenges as standard for now and we can script to change
 type: standard
 
-
-# Flags specify answers that your challenge use. You should generally provide at least one.
 flags:
   - type: "static"
     content: "ATHACKCTF{B1gJesterIsW4tch1ngY0u}"
     data: "case_insensitive"
 
-
-# Available: beginner, interac
 tags:
 
-
-# Provide paths to files from the same directory that this file is in
-
-
-
-# Put hidden by default
 state: visible
 
 version: "0.1"
