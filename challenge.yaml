@@ -1,6 +1,6 @@
 name: "Big Jester is Watching You"
 author: "Hugo"
-category: <Hardware>
+category: Hardware
 description: |
     Somewhere near the admins, Jester is watching. Everyone. Everything.
     He will give you a gift, if you show him where to send it...
@@ -17,6 +17,7 @@ flags:
     data: "case_insensitive"
 
 tags:
+ - beginner
 
 state: visible
 
