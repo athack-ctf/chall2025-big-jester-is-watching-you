@@ -1,50 +1,52 @@
-# Chall - Jester is Watching
+# @HACK 2025: Big Jester is Watching You
 
-> Environment challenge where participants must show a QR code to a webcam. The program running behind will send the flag to the URL provided on the QR code.
+> Authored by [Hugo](https://github.com/hkerma).
 
-## Type
+- **Category**: `Hardware`
+- **Value**: `50 points`
+- **Tags**: `beginner`
 
-- [X] **OFF**line
-- [ ] **ON**line
+> Somewhere near the admins, Jester is watching. Everyone. Everything.
+> He will give you a gift, if you show him where to send it...
+> 
+> **NOTE**: you'll have to go to the hardware village (MB 3rd), where Jester is sitting. Ask our volunteers if you're
+> not sure where it is.
+> 
+> ## About **Big Jester**
+> At @Hack 2025, Big Jester featured a mysterious box with an all-seeing eye (just a cheap webcam).
+> We're sharing it - along with the included picture - for historical reference. However, since it only requires a webcam,
+> you can try running it locally using the source code available in
+> [challenge's public repo](https://github.com/athack-ctf/chall2025-big-jester-is-watching-you/tree/main/source).
+> 
 
-## Designer(s)
+## Files
+- **[Download: throwback-big-jester.jpg](https://github.com/athack-ctf/chall2025-big-jester-is-watching-you/raw/refs/heads/main/offline-artifacts/throwback-big-jester.jpg)**
 
-- Hugo Kermabon-Bobinnec
+## Reveal Flag
 
-## Description
+Did you try solving this challenge?
+<details>
+<summary>
+Yes
+</summary>
 
-Environment challenge where participants must show a QR code to a webcam. The program running behind will send the flag to the URL provided on the QR code.
+Did you **REALLY** try solving this challenge?
 
-NOTE: NO OFFLINE ARTIFACTS. SETUP A MACHINE WITH WIFI.
+<details>
+<summary>
+Yes, I promise!
+</summary>
 
-## Category(ies)
+Flag: `ATHACKCTF{B1gJesterIsW4tch1ngY0u}`
 
-- `env`
+</details>
+</details>
 
 
 ---
 
-# Project Structure
+## About @HACK
+[@HACK](https://athackctf.com/) is an annual CTF (Capture The Flag) competition hosted by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia University in Montreal, Canada.
 
-## 1. HACKME.md
-
-- **[HACKME.md](HACKME.md)**: A teaser or description of the challenge to be shared with participants (in CTFd).
-
-## 2. Source Code
-
-- **[source/README.md](source/README.md)**: Sufficient instructions for building your offline artifacts from source
-  code. If your project includes multiple subprojects, please consult us (Anis and Hugo).
-- **[source/*](source/)**: Your source code.
-
-## 3. Offline Artifacts
-
-- **[offline-artifacts/*](offline-artifacts/)**: All files (properly named) intended for local download by
-  participants (e.g., a binary executable for reverse engineering, a custom-encoded image, etc.). For large files (
-  exceeding 100 MB), please consult us (Anis and Hugo).
-
-## 4. Solution
-
-- **[solution/README.md](solution/README.md)**: A detailed writeup of the working solution.
-- **[solution/FLAGS.md](solution/FLAGS.md)**: A single markdown file listing all (up-to-date) flags.
-- **[solution/*](solution/)**: Any additional files or code necessary for constructing a reproducible solution for the
-  challenge (e.g., `PoC.py`, `requirement.txt`, etc.). 
+---
+[Check more challenges from @HACK 2025](https://github.com/athack-ctf/AtHackCTF-2025-Challenges).
