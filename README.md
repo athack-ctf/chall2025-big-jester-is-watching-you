@@ -14,7 +14,7 @@
 > 
 > ## About **Big Jester**
 > At @Hack 2025, Big Jester featured a mysterious box with an all-seeing eye (just a cheap webcam).
-> We're sharing it - along with the included picture - for historical reference. However, since it only requires a webcam,
+> We're sharing it - along with the included picture - as a fun throwback. However, since it only requires a webcam,
 > you can try running it locally using the source code available in
 > [challenge's public repo](https://github.com/athack-ctf/chall2025-big-jester-is-watching-you/tree/main/source).
 > 
